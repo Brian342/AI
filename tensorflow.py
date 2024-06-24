@@ -1,7 +1,8 @@
+# A network that learns if we should cate
 import csv
-import tensorflow as tf
+# import tensorflow as tf
 
-from sklearn.model_selection import train_test_split
+# from sklearn.model_selection import train_test_split
 
 # read data in from file
 with open() as f:
